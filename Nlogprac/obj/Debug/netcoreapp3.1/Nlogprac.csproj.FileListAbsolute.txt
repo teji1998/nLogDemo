@@ -1,0 +1,17 @@
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.csprojAssemblyReference.cache
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.AssemblyInfoInputs.cache
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.AssemblyInfo.cs
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.csproj.CoreCompileInputs.cache
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\LogFile.log
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\Nlogprac.exe
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\Nlogprac.deps.json
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\Nlogprac.runtimeconfig.json
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\Nlogprac.runtimeconfig.dev.json
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\Nlogprac.dll
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\Nlogprac.pdb
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.csproj.CopyComplete
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.dll
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.pdb
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\obj\Debug\netcoreapp3.1\Nlogprac.genruntimeconfig.cache
+C:\Users\PRITHVIL5\source\repos\Nlogprac\Nlogprac\bin\Debug\netcoreapp3.1\NLog.Config
